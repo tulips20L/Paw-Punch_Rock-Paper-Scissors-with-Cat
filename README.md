@@ -1,4 +1,8 @@
-# Paw-Punch — Cat Paw Rock Paper Scissors
+# Paw-Punch — Rock-Paper-Scissors-with-Cat
+
+Demo video
+
+[Paw-Punch gameplay demo 🎬](https://youtu.be/sQ2q2G_UYG0)
 
 Paw-Punch is a cute, camera-driven Rock-Paper-Scissors game where you play against a cat paw.
 The game uses your webcam and MediaPipe Hands to recognize your hand gesture (rock / paper / scissors),
@@ -54,9 +58,10 @@ Contributing ideas
 Enjoy playing with the cat paw! 🐱
 
 Attribution
- - Images / artwork (Cat Hands, etc.): https://nj-prod.itch.io/rock-paper-scissors
- - Sound effects (SFX pack): https://coffeevalenbat.itch.io/sweet-sounds-sfx-pack
- - Background music: https://freepd.com
+- Images / artwork (Cat Hands, etc.): https://nj-prod.itch.io/rock-paper-scissors
+- Sound effects (SFX pack): https://coffeevalenbat.itch.io/sweet-sounds-sfx-pack
+- Background music: https://freepd.com
+
  
 
 
