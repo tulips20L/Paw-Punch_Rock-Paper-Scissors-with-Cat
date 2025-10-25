@@ -58,15 +58,5 @@ Attribution
  - Sound effects (SFX pack): https://coffeevalenbat.itch.io/sweet-sounds-sfx-pack
  - Background music: https://freepd.com
  
- Please check each source for the exact license and any required attribution text before redistribution. I used these assets for demo/personal purposes; if you plan to publish or redistribute the game, verify licensing and comply with the authors' terms.
-
-Demo video
-
-I've recorded a short gameplay demo and added it to the repository: `Paw Punch.mp4` (project root).
-
-- Play/download: `Paw Punch.mp4`
-- Notebook embed: open `notebooks/Intro_PawPunch.ipynb` and run the last cell to view the video inline (or click the link in the notebook).
-
-If you prefer the video placed in `assets/` instead, tell me and I will move it and update references.
 
 
