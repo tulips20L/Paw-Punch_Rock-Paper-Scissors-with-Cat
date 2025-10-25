@@ -1,0 +1,6 @@
+opencv-python>=4.5.5
+mediapipe>=0.10.0
+pygame>=2.0.0
+numpy>=1.19.0
+
+# Optional: pin exact versions if you need strict reproducibility
